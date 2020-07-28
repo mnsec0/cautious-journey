@@ -1,4 +1,4 @@
-# Welcome to my information security blog.
+# The most secure network is one that does not exist.
 ## Check out my main site at [mnsec0.net](https://mnsec0.net)
 
 ***
