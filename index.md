@@ -3,6 +3,6 @@
 
 ***
 
-### Vulnhub CTF: #### DerpNStink
+### Vulnhub CTF: DerpNStink
   code here blah blah blah
 
